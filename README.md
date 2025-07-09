@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/awc1lu.jpeg" alt="ACTIVATOR BOT Banner" style="width:100%; border-radius:10px;">
 
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&pause=1000&color=00FFD5&center=true&vCenter=true&width=800&lines=🙏+THANK+YOU+FOR+CHOOSING+ACTIVATOR;👨‍💻+CREATED+BY+MR+SMILE+WITH+LOVE)
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃      ⚡ ABOUT ACTIVATOR BOT      ┃
