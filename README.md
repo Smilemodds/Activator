@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=WELCOME+TO+ACTIVATOR+BOT;CREATED+BY+MR+SMILE)
+
+
+
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃      ⚡ ABOUT ACTIVATOR BOT      ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
