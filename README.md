@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=⚠️+THIS+BOT+IS+ONLY+DEPLOYED+ON+PANEL+OR+TERMUX+⚠️)
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=✨+WELCOME+TO+ACTIVATOR+BOT+✨;🔥+THE+ULTIMATE+WHATSAPP+AUTOMATION+TOOL+🔥;💻+CREATED+WITH+LOVE+BY+MR+SMILE+💻;📡+POWERED+BY+NODE.JS+AND+BAILEYS+📡;⚙️+MODULAR+COMMANDS+|+AUTO+REACT+|+AI+READY+⚙️)
 
 <img src="https://files.catbox.moe/awc1lu.jpeg" alt="ACTIVATOR BOT Banner" style="width:100%; border-radius:10px;">
