@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=WELCOME+TO+ACTIVATOR+BOT;CREATED+BY+MR+SMILE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=✨+WELCOME+TO+ACTIVATOR+BOT+✨;🔥+THE+ULTIMATE+WHATSAPP+AUTOMATION+TOOL+🔥;💻+CREATED+WITH+LOVE+BY+MR+SMILE+💻;📡+POWERED+BY+NODE.JS+AND+BAILEYS+📡;⚙️+MODULAR+COMMANDS+|+AUTO+REACT+|+AI+READY+⚙️)
 
 
 
